@@ -1,6 +1,6 @@
-# Target2019_Lesson2
+# TARGET Python Lesson2
 
-This library contans the material for the Lesson2 of the Python Lessonf for Target2019.
+This library contans the material for the Lesson2 of the Python Lessons for TARGET internship at Fermilab.
 Read first the material in the Lesson.
 Then do the Challenges.
 
